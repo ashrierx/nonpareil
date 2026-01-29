@@ -3,9 +3,9 @@
 ## 1. Project Setup
 - [X] Initialize Next.js app with TypeScript
 - [ ] Configure Tailwind CSS + shadcn/ui
-- [ ] Set up ESLint, Prettier
+- [X] Set up ESLint, Prettier
 - [ ] Configure environment variables
-- [ ] Set up GitHub repository
+- [X] Set up GitHub repository
 
 ## 2. Backend & GraphQL
 - [ ] Initialize Node.js backend
